@@ -63,10 +63,8 @@ function App() {
 
         <footer className="contactUs">
           <div className="contactInner">
-            <span>Let’s build something strong.</span>
-            <a href="mailto:sales@ColorGridCreative.com">
+            <span>Built to ship. Built to scale.</span>
               sales@ColorGridCreative.com
-            </a>
           </div>
         </footer>
       </div>
